@@ -8,6 +8,7 @@ Create a program in java that can re-arrange a football league table depending o
 
 - Table should be hosted in database
 - If a team wins it should move accordingly up the table.
+- Table can be reset to an all zero(0) values
 - If teams tie they should be arranged accordingly 
 - If teams have the same point, the goal difference should be used to arrange them accordingly, else if teams have the same goal difference and points, the goals scored by each teams will be used for arrangment.
 
